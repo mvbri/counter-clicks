@@ -29,3 +29,14 @@ body {
 .main-logo {
   height: 150px;
 }
+
+.container-counter {
+  height: 550px;
+  min-width: 300px;
+  padding: 0 2em;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
